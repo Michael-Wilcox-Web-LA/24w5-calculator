@@ -20,6 +20,7 @@ buttons.forEach(button => {
     });
 });
 
+
 // Functions
 function appendToDisplay(value) {
     // If the value is an operator and an operator is already present, replace it
