@@ -78,3 +78,5 @@ document.getElementById('plusButton').addEventListener('click', () => handleOper
 document.getElementById('minusButton').addEventListener('click', () => handleOperatorClick('-'));
 document.getElementById('multiplyButton').addEventListener('click', () => handleOperatorClick('*'));
 document.getElementById('divideButton').addEventListener('click', () => handleOperatorClick('/'));
+
+//I love tacos
